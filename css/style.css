@@ -95,7 +95,7 @@ p{
 }
 .btn{
   padding: 5px 9px;
-  background-color: #0057FF;
+  background-color: #0057ff;
   color: #fff;
   display: inline-block;
   border-radius: 5px;
@@ -158,7 +158,7 @@ p{
   content: "";
   width: 0px;
   height: 2px;
-  background-color: #0057FF;
+  background-color: #0057ff;
   border-radius: 2px;
   position: absolute;
   bottom: -6px;
@@ -182,8 +182,8 @@ p{
   border: none;
 }
 .form-input{
-  border: 1px solid #A4A5A9;
-  outline-color:  #0057FF;
+  border: 1px solid #a4a5a9;
+  outline-color:  #0057ff;
 }
 input::placeholder{
   color: var(--text-color);
@@ -244,7 +244,7 @@ input{
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  border: 2px dotted #EFEFEF;
+  border: 2px dotted #efefef;
   top: -13%;
   left: -1%;
 }
@@ -253,27 +253,27 @@ input{
   width: 700px;
   height: 700px;
   border-radius: 50%;
-  border: 2px dotted #EFEFEF;
+  border: 2px dotted #efefef;
   top: -38%;
   left: -21%;
 }
 .anim-items1{
-  box-shadow: 0 0 10px 5px #FFE268;
+  box-shadow: 0 0 10px 5px #efe268;
   display: block;
   width: 50px;
   height: 50px;
-  background-color: #FFE268;
+  background-color: #efe268;
   position: absolute;
   border-radius: 50%;
   top: 175px;
   z-index: -5;
 }
 .anim-items2{
-  box-shadow: 0 0 10px 5px #FFAB73;
+  box-shadow: 0 0 10px 5px #ffab73;
   display: block;
   width: 50px;
   height: 50px;
-  background-color: #FFAB73;
+  background-color: #ffab73;
   position: absolute;
   border-radius: 50%;
   top: 112px;
@@ -281,11 +281,11 @@ input{
   z-index: -5;
 }
 .anim-items3{
-  box-shadow: 0 0 10px 5px #81ABFF;
+  box-shadow: 0 0 10px 5px #81abff;
   display: block;
   width: 50px;
   height: 50px;
-  background-color: #81ABFF;
+  background-color: #81abff;
   position: absolute;
   border-radius: 50%;
   bottom: -25px;
@@ -314,7 +314,7 @@ input{
   color: var(--text-color);
   font-weight: 600;
   line-height: 1.2;
-  border-bottom: 4px solid #0057FF;
+  border-bottom: 4px solid #0057ff;
   border-radius: 2px;
   width: 182px;
   margin-bottom: 33px;
@@ -339,7 +339,7 @@ input{
 }
 .bxs-star{
   font-size: 25px;
-  color: #FFD700;
+  color: #ffd700;
   vertical-align: sub;
 }
 .post-btn{
@@ -390,10 +390,10 @@ input{
   font-weight: 700;
 }
 .post-link-color1{
-  background: #E10689;
+  background: #e10689;
 }
 .post-link-color1:hover{
-  background-color: #E10689;
+  background-color: #e10689;
   opacity: 1;
 }
 .plan-premium{
@@ -458,7 +458,7 @@ input{
 .card-title{
   font-weight: 600;
   font-size: 1rem;
-  color: #0057FF;
+  color: #0057ff;
   text-align: center;
   line-height: 1.2;
   margin-bottom: 8px;
@@ -478,7 +478,7 @@ input{
 .card-free{
   display: block;
   padding: 9px 13px;
-  background-color: #96EA8C;
+  background-color: #96ea8c;
   text-align: center;
   width: 107px;
   border-radius: 16px;
@@ -497,16 +497,16 @@ input{
   margin-top: 7px;
 }
 .post-btn1{
-  background-color: #BC4EE2;
+  background-color: #bc4ee2;
 }
 .post-btn1:hover{
-  background-color: #BC4EE2;
+  background-color: #bc4ee2;
 }
 .post-btn2{
-  background-color: #A7771E;
+  background-color: #a7771e;
 }
 .post-btn2:hover{
-  background-color: #A7771E;
+  background-color: #a7771e;
 }
 .post-btn3{
   background-color: #429136;
@@ -583,24 +583,24 @@ input{
 .sub-input{
   height: 48px;
   margin-right: 12px;
-  outline-color: #81ABFF;
+  outline-color: #81abff;
 }
 
 .sub-form-btn{
   border: none;
 }
 .darkmode .sub-form-all input::placeholder{
-  color: #A4A5A9;
+  color: #a4a5a9;
 }
 .darkmode .sub-form-all input{
-  color: #A4A5A9;
+  color: #a4a5a9;
 }
 .foter-contents{
   padding-top: 4rem;
   margin-bottom: 1rem;
 }
 #last-elements{
-  border-top: 1px solid #EFEFEF;
+  border-top: 1px solid #efefef;
 }
 
 .foter-text{
@@ -626,7 +626,7 @@ input{
   margin-bottom: .75rem;
 }
 .foter-list-item-link:hover{
-  color: #0057FF;
+  color: #0057ff;
 }
 .last-text{
   font-size: .875rem;
